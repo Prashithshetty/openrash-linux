@@ -1,0 +1,26 @@
+# OpenRash .gitignore
+
+# Build & distribution directories
+/build/
+/bin/
+/dist/
+/.flatpak-builder/
+/.flatpak-build/
+/repo/
+/flatpak_app/
+
+# Compiled & temporary artifacts
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.part
+*.log
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
