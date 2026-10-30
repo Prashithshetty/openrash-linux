@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Road Rash
+GenericName=Combat Motorcycle Racing Game
+Comment=Complete 1996 Road Rash (roadrash.fun) native Linux desktop edition
+Exec=openrash
+Icon=io.github.prashithshetty.OpenRash
+Terminal=false
+Type=Application
+Categories=Game;ArcadeGame;ActionGame;
+Keywords=roadrash;road rash;racing;motorcycle;combat;retro;openrash;
+StartupNotify=true
+StartupWMClass=io.github.prashithshetty.OpenRash
+X-Flatpak=io.github.prashithshetty.OpenRash
