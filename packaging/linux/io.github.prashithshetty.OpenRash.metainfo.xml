@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.prashithshetty.OpenRash</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MIT</project_license>
+  <name>Road Rash (OpenRash)</name>
+  <summary>Complete 1996 Road Rash (roadrash.fun) native Linux desktop edition</summary>
+  <description>
+    <p>
+      OpenRash delivers the complete 1996 Road Rash (roadrash.fun) experience as a native
+      Linux desktop application powered by a C++20 GTK4, WebKitGTK 6.0, and libsoup-3.0 runtime
+      with 100% of the game assets bundled for offline play.
+    </p>
+    <p>
+      Includes Quick Race (Thrash Mode), full 5-level Big Game Career mode across The City,
+      The Peninsula, Pacific Coast Highway, Sierra Nevada, and Napa Valley, Olley's Bike Shop
+      with all 15 bikes and showroom videos, 4 authentic cockpit dashboards, full grunge
+      soundtrack jukebox, 56 FMV cutscenes, gamepad support, and online Mano-a-Mano multiplayer.
+    </p>
+  </description>
+  <launchable type="desktop-id">io.github.prashithshetty.OpenRash.desktop</launchable>
+  <url type="homepage">https://github.com/Prashithshetty/openrash-linux</url>
+  <developer_name>Prashith Shetty</developer_name>
+  <provides>
+    <binary>openrash</binary>
+  </provides>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">moderate</content_attribute>
+  </content_rating>
+  <releases>
+    <release version="2.0.0" date="2026-10-31">
+      <description>
+        <p>Complete native Linux desktop edition bundling 100% of roadrash.fun offline with hardware WebGL, FMV byte-range streaming, persistent career saves, and online Mano-a-Mano support.</p>
+      </description>
+    </release>
+  </releases>
+</component>
