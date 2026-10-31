@@ -27,6 +27,16 @@
   <content_rating type="oars-1.1">
     <content_attribute id="violence-cartoon">moderate</content_attribute>
   </content_rating>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Road Rash title screen and menu</caption>
+      <image>https://raw.githubusercontent.com/Prashithshetty/openrash-linux/main/www/assets/img/splash.jpg</image>
+    </screenshot>
+    <screenshot>
+      <caption>Olley's Bike Shop and motorcycle showroom</caption>
+      <image>https://raw.githubusercontent.com/Prashithshetty/openrash-linux/main/www/assets/img/olleys.jpg</image>
+    </screenshot>
+  </screenshots>
   <releases>
     <release version="2.0.0" date="2026-10-31">
       <description>
