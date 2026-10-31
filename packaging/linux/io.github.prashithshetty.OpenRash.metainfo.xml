@@ -20,7 +20,9 @@
   </description>
   <launchable type="desktop-id">io.github.prashithshetty.OpenRash.desktop</launchable>
   <url type="homepage">https://github.com/Prashithshetty/openrash-linux</url>
-  <developer_name>Prashith Shetty</developer_name>
+  <developer id="io.github.prashithshetty">
+    <name>Prashith Shetty</name>
+  </developer>
   <provides>
     <binary>openrash</binary>
   </provides>
